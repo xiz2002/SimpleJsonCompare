@@ -6,7 +6,7 @@ Using Excel Json File Compare
 
 ## Example
 
-### 2 File Compare
+### 2 Files Compare
 ```
 File_1.json
 {"values":[{"a":1,"b":2,"c":3},{"d":"2000/01/01","e":[1,2,3,4,5,6],"f":"abcde"}]}
