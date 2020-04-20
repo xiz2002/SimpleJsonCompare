@@ -2,6 +2,8 @@
 
 Using Excel Json File Compare
 
+- [Download](https://github.com/xiz2002/SimpleJsonCompare/releases/latest)
+
 ## Example
 
 ### 2 File Compare
