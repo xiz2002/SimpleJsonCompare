@@ -52,7 +52,7 @@ File_3.json
 
 
 ## Dependency
-  [vba-json](https://code.google.com/p/vba-json/)
+  [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
 
 ## License
   [MIT](LICENSE)
